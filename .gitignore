@@ -1,0 +1,11 @@
+_build/.doctrees/*
+.ipynb_checkpoints/*
+
+/chapters/chapter1/.ipynb_checkpoints/*
+/chapters/chapter2/.ipynb_checkpoints/*
+/chapters/chapter3/.ipynb_checkpoints/*
+/chapters/chapter4/.ipynb_checkpoints/*
+/chapters/chapter5/.ipynb_checkpoints/*
+/chapters/chapter6/.ipynb_checkpoints/*
+/notebooks/.ipynb_checkpoints/*
+/notebooks/__pycache__/*

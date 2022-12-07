@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+
+  # no caption for first part, this is just a preface
+  - chapters: 
+    - file: chapters/preface/preface
+  
+  - caption: Background
+    chapters:
+      - file: chapters/chapter1/introduction
